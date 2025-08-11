@@ -1,0 +1,2 @@
+# Algoritmos-de-Aprendizado-Supervisionado-em-Tarefas-de-Regressao-e-Classificacao-Multiclasse
+Comparação de algoritmos supervisionados para regressão e classificação em quatro conjuntos (Energy Efficiency, California Housing, Wine Quality Red, Iris). Avaliaram pré-processamento, validação, 6 regressões e 5 classificadores com RMSE, MAE, acurácia e F1 (30 repetições), destacando importância do pré-processamento e da escolha do modelo.
